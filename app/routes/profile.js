@@ -1,3 +1,4 @@
+const password = '1234';
 const ProfileDAO = require("../data/profile-dao").ProfileDAO;
 const ESAPI = require("node-esapi");
 const {
